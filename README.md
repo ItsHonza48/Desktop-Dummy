@@ -1,6 +1,7 @@
 # Desktop-Dummy
 
 The complete 3D model assembly for this 4-DOF robot arm is available as a STEP file packaged inside of the zip i have in this repo.
+[Download STEP Assembly](./Robotic%20arm%20%2B%20gripper%20step%20files.zip)
 
 Desktop dummy will be a robotic arm inspired by dummy from iron man. I hope it will be good. My plan is it will be able to lift 500 grams which is your usual can of cola or other drinks. I made this for Stardance.
 Here is the link to the robotic arm https://www.thingiverse.com/thing:4795639 from noah_makes_things on thingiverse
